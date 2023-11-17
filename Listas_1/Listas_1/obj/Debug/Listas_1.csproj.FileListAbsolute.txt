@@ -1,0 +1,19 @@
+C:\Users\Ordenador\Desktop\Estructura de Datos - Nicosio Red - C#\Listas_1\Listas_1\bin\Debug\Listas_1.exe.config
+C:\Users\Ordenador\Desktop\Estructura de Datos - Nicosio Red - C#\Listas_1\Listas_1\bin\Debug\Listas_1.exe
+C:\Users\Ordenador\Desktop\Estructura de Datos - Nicosio Red - C#\Listas_1\Listas_1\bin\Debug\Listas_1.pdb
+C:\Users\Ordenador\Desktop\Estructura de Datos - Nicosio Red - C#\Listas_1\Listas_1\obj\Debug\Listas_1.exe
+C:\Users\Ordenador\Desktop\Estructura de Datos - Nicosio Red - C#\Listas_1\Listas_1\obj\Debug\Listas_1.pdb
+C:\Users\Ordenador\Desktop\Estructura de Datos - Nicosio Red - C#\Listas_1\Listas_1\obj\Debug\Listas_1.csprojResolveAssemblyReference.cache
+C:\Users\Ordenador\Desktop\DataStructure_C-_Nicosio\Listas_1\Listas_1\bin\Debug\Listas_1.exe.config
+C:\Users\Ordenador\Desktop\DataStructure_C-_Nicosio\Listas_1\Listas_1\bin\Debug\Listas_1.exe
+C:\Users\Ordenador\Desktop\DataStructure_C-_Nicosio\Listas_1\Listas_1\bin\Debug\Listas_1.pdb
+C:\Users\Ordenador\Desktop\DataStructure_C-_Nicosio\Listas_1\Listas_1\obj\Debug\Listas_1.csprojResolveAssemblyReference.cache
+C:\Users\Ordenador\Desktop\DataStructure_C-_Nicosio\Listas_1\Listas_1\obj\Debug\Listas_1.exe
+C:\Users\Ordenador\Desktop\DataStructure_C-_Nicosio\Listas_1\Listas_1\obj\Debug\Listas_1.pdb
+C:\Users\harrison.alvarez\Desktop\DataStructure_C-_Nicosio-master\Listas_1\Listas_1\bin\Debug\Listas_1.exe.config
+C:\Users\harrison.alvarez\Desktop\DataStructure_C-_Nicosio-master\Listas_1\Listas_1\bin\Debug\Listas_1.exe
+C:\Users\harrison.alvarez\Desktop\DataStructure_C-_Nicosio-master\Listas_1\Listas_1\bin\Debug\Listas_1.pdb
+C:\Users\harrison.alvarez\Desktop\DataStructure_C-_Nicosio-master\Listas_1\Listas_1\obj\Debug\Listas_1.csproj.AssemblyReference.cache
+C:\Users\harrison.alvarez\Desktop\DataStructure_C-_Nicosio-master\Listas_1\Listas_1\obj\Debug\Listas_1.csproj.CoreCompileInputs.cache
+C:\Users\harrison.alvarez\Desktop\DataStructure_C-_Nicosio-master\Listas_1\Listas_1\obj\Debug\Listas_1.exe
+C:\Users\harrison.alvarez\Desktop\DataStructure_C-_Nicosio-master\Listas_1\Listas_1\obj\Debug\Listas_1.pdb
